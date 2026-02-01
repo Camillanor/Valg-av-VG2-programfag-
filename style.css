@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h3 {
+  margin-top: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+button {
+  margin-top: 15px;
+  padding: 8px 15px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#result {
+  margin-top: 25px;
+}
+
+#result ul {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+#result li {
+  margin-bottom: 8px;
+}
