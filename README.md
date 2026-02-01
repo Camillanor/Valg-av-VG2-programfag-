@@ -1,2 +1,2 @@
-# Valg-av-VG2-programfag-
+# Valg-av-VG2-programfag 2026/2027-
 Få info om hvilke fag du kan velge i VG2, info om fagene og hvilke fag du kan velge i VG3
